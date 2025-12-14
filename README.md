@@ -23,9 +23,11 @@
 </p>
 
 ## Sobre mim
-- Web Developer | UI/UX Designer
-- Atualmente estudando: Java / TypeScript
-- Objetivo: melhorar front-end e contribuir com projetos open-source
+- Web Developer | Cybersegurity | Bussiness Intelligence
+  
+- Atualmente estudando: Análise Desenvolvimento de Sistemas
+  
+- Objetivo: inovar soluções digitais e à minha proatividade e capacidade de aprendizado rápido. 
 
 ## Atividade (contributions)
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=NicolasSoft&theme=react-dark&hide_border=true)
@@ -39,8 +41,8 @@
 
 ## Contato
 - GitHub: [@NicolasSoft](https://github.com/NicolasSoft)
-- Email: seu-email@exemplo.com (substitua se quiser)
-- LinkedIn: https://www.linkedin.com/in/seu-linkedin (substitua se quiser)
+- Email: nicolas.d.daniell@gmail.com (malito: nicolas.d.daniell@gmail.com)
+- LinkedIn: (https://LinkedIn.com/in/nicolasdanielsantos) 
 
 <!--
 Instruções:
