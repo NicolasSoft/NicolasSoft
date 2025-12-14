@@ -36,8 +36,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasSoft&theme=dark&hide_border=true)
 
 ## Projetos em destaque
-- [Projeto A](https://github.com/NicolasSoft/projeto-a) — breve descrição
-- [Projeto B](https://github.com/NicolasSoft/projeto-b) — breve descrição
+- [Projeto A](https://github.com/NicolasSoft/QuickShop.git) — Sistema de Cadastro de Produtos 
+- [Projeto B](https://github.com/NicolasSoft/projeto-b) — Liderei um site ao Meio Ambiente em um projeto de Gestores do Futuro.
 
 ## Contato
 - GitHub: [@NicolasSoft](https://github.com/NicolasSoft)
