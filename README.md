@@ -1,53 +1,40 @@
-# Olá 👋, eu sou NicolasSoft
+# 👋 Olá, sou Nicolas Daniel!
 
-<p align="left">
-  <a href="https://github.com/NicolasSoft">
-    <img alt="NicolasSoft's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NicolasSoft&show_icons=true&theme=dark&count_private=true" />
-  </a>
-  <a href="https://github.com/NicolasSoft">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSoft&layout=compact&theme=dark" />
-  </a>
-</p>
+<div align="center">
 
-## Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <!-- Remova/adicione ícones conforme suas preferências -->
-</p>
+💻 **Desenvolvedor Web | Entusiasta de Cybersecurity | Cloud Computing**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) @ IFSP
+📍 Campinas, São Paulo — Brasil
 
-## Sobre mim
-- Web Developer | Cybersegurity | Bussiness Intelligence
-  
-- Atualmente estudando: Análise Desenvolvimento de Sistemas
-  
-- Objetivo: inovar soluções digitais e à minha proatividade e capacidade de aprendizado rápido. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasdanielsantos)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasSoft)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.d.daniell@gmail.com)
 
-## Atividade (contributions)
-![activity graph](https://activity-graph.herokuapp.com/graph?username=NicolasSoft&theme=react-dark&hide_border=true)
+</div>
 
-## Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasSoft&theme=dark&hide_border=true)
+---
 
-## Projetos em destaque
-- [Projeto A](https://github.com/NicolasSoft/QuickShop.git) — Sistema de Cadastro de Produtos 
-- [Projeto B](https://github.com/NicolasSoft/Plasticana.git) — Liderei um site ao Meio Ambiente em um projeto de Gestores do Futuro.
+### 🚀 Sobre mim
 
-## Contato
-- GitHub: [@NicolasSoft](https://github.com/NicolasSoft)
-- Email: nicolas.d.daniell@gmail.com (malito: nicolas.d.daniell@gmail.com)
-- LinkedIn: (https://LinkedIn.com/in/nicolasdanielsantos) 
+Sou apaixonado por tecnologia e inovação. Atualmente curso **ADS no IFSP** e atuo no aprimoramento contínuo em **Desenvolvimento Web**, **Cloud Computing** e **Segurança da Informação**.
 
-<!--
-Instruções:
-1. Crie um repositório público com o mesmo nome do seu usuário: NicolasSoft
-2. Cole este README.md no repositório.
-3. Personalize links, projetos, email e ícones conforme necessário.
-4. Se quiser desenhar arte no contribution graph (as letras no heatmap), posso gerar um script com commits em datas específicas — quer que eu faça isso?
--->
+Meu foco é construir interfaces modernas e aplicações funcionais, sempre prezando por:
+
+*   ✨ **Código Limpo (Clean Code)** e organizado
+*   🛡️ **Segurança** e boas práticas de desenvolvimento
+*   📱 **Interfaces Responsivas** e experiência do usuário (UX)
+*   🚀 **Evolução Constante** profissional
+
+---
+
+### 🛠️ Tecnologias & Skills
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Tech+Stack+e+Ferramentas;Python+%7C+Java+%7C+JavaScript;AWS+%7C+Azure+%7C+Docker;Security+%7C+Linux+%7C+Git)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,docker,azure,aws,linux,kali,git&perline=6" />
+</a>
+
+</div>
